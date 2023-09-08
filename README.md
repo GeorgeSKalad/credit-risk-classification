@@ -1,6 +1,5 @@
 # credit-risk-classification
 
-# Logistic Regression Model for Loan Risk Prediction
 
 ## Overview
 
